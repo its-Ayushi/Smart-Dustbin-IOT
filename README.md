@@ -17,7 +17,7 @@ This project demonstrates how to create a **Smart Dustbin** using **Arduino Uno*
 
 - **Arduino IDE** (Download from [Arduino official website](https://www.arduino.cc/en/software))
 
-## Circuit Diagram
+## Circuit Connections
 
 Here is a basic outline of the connections:
 
